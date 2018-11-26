@@ -10,3 +10,7 @@ Personal Linux Scripts and Configs
 * # restore
 * # sudo shutdown now
 * # sudo sh /boot/zlinux/cmp/pkgs/remove
+
+# Tips
+
+* cmdline.txt force HDMI mode: 'nomodeset video=HDMI-A-1:1280x720@60' , this is the only way when new soft opengl driver enabled.
